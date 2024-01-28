@@ -1,6 +1,6 @@
 This is a project that I completed for my STA9797 (Advanced Data Analysis) class at Baruch College.
 I include the R code as well as the report here. In this project, I set out to determine which factors best determine which 
-NBA players would win the Most Improved Player of the Year Award. From my analysis I concluded that of the variables I included, 
-FantasyPTS (a metric used to indicate a player's productivity in fantasy basketball leagues) 
+NBA players would win the Most Improved Player of the Year Award. From my analysis I concluded that of the variables I 
+included, FantasyPTS (a metric used to indicate a player's productivity in fantasy basketball leagues) 
 and DraftPick (the pick at which a player was drafted) were the two that were statistically significant. 
 As stated in my report, the logistic regression model can be improved by adding more players to the dataset. 
